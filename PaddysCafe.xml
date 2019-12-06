@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <cafemenu>
-  <section name="Side Dishes"/>
-  <section name="Breakfast">
+  <section name="Engine Services">
+    <entree>
+      <item>engine oil add</item>
+      <price>4.99</price>
+    </entree>
+  </section>
+  <section name="Break Services">
     <entree>
       <item>Two Eggs, any style</item>
       <price>4.99</price>
@@ -23,7 +28,7 @@
       <price>3.99</price>
     </entree>
   </section>
-  <section name="Lunch">
+  <section name="Paint Services">
     <entree>
       <item>Grilled Chicken Sandwich</item>
       <price>7.99</price>
@@ -37,7 +42,7 @@
       <price>7.39</price>
     </entree>
   </section>
-  <section name="Dinner">
+  <section name="Car Wash">
     <entree>
       <item>Ribeye Steak</item>
       <price>19.99</price>
