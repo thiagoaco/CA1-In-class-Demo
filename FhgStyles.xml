@@ -27,6 +27,14 @@
       <item>Croissant</item>
       <price>3.99</price>
     </entree>
+    <entree>
+      <item/>
+      <price/>
+    </entree>
+    <entree>
+      <item>cc</item>
+      <price>cc</price>
+    </entree>
   </section>
   <section name="Paint Services">
     <entree>
