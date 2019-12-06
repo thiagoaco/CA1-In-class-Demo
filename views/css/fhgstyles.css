@@ -4,7 +4,7 @@ html {
 }
 body {
     background-image: url(../img/car.jpg);
-    background-size: 1400px 1200px;
+    background-size: 1800px 1400px;
     background-repeat: no-repeat;
   /* Margin bottom by footer height */
   margin-bottom: 60px;
@@ -41,6 +41,7 @@ table, th, td {
 }
 .selected {
             background-color: #e60e2080;
+            opacity: 0,9;
             color: #FFF;
 }
 .row{
