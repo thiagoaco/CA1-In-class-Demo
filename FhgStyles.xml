@@ -10,8 +10,20 @@
       <price>100.00</price>
     </entree>
     <entree>
-      <item/>
-      <price/>
+      <item>clutch</item>
+      <price>1100.00</price>
+    </entree>
+    <entree>
+      <item>exhaust pipe</item>
+      <price>200.00</price>
+    </entree>
+    <entree>
+      <item>fuel injection</item>
+      <price>300.00</price>
+    </entree>
+    <entree>
+      <item>Brack oil</item>
+      <price>25.00</price>
     </entree>
   </section>
   <section name="Break Services">
