@@ -4,6 +4,8 @@ html {
 }
 body {
     background-image: url(../img/car.jpg);
+    background-size: 1000px 1200px;
+    background-repeat: no-repeat;
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
