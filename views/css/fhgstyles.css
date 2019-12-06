@@ -22,10 +22,12 @@ table, th, td {
      border-collapse: collapse;
      border: 1px solid black;
      text-align: center;
+     box-shadow: 0 5px 15px;
 }
  table {
      border-collapse: collapse;
      width:100%;
+     box-shadow: 0 5px 15px;
 }
  td, th {
      border: 1px solid #ced4da;
