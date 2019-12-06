@@ -3,6 +3,7 @@ html {
   min-height: 100%;
 }
 body {
+    background-image: url('img/car.jpg');
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
@@ -36,3 +37,4 @@ table, th, td {
             background-color: #dc3545;
             color: #FFF;
 }
+ 
