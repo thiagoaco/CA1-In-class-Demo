@@ -3,7 +3,7 @@ html {
   min-height: 100%;
 }
 body {
-    background-image: url('img/car.jpg');
+    background-image: url(../img/car.jpg);
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
