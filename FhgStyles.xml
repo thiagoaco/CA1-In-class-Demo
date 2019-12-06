@@ -9,31 +9,18 @@
       <item>time belt</item>
       <price>100.00</price>
     </entree>
+    <entree>
+      <item/>
+      <price/>
+    </entree>
   </section>
   <section name="Break Services">
-    <entree vegetarian="true">
-      <item>French toast</item>
-      <price>5.25</price>
-    </entree>
     <entree>
       <item>cc</item>
       <price>cc</price>
     </entree>
   </section>
-  <section name="Paint Services">
-    <entree>
-      <item>Grilled Chicken Sandwich</item>
-      <price>7.99</price>
-    </entree>
-    <entree>
-      <item>Tuna Melt</item>
-      <price>6.99</price>
-    </entree>
-    <entree vegetarian="true">
-      <item>Pasta Salad</item>
-      <price>7.39</price>
-    </entree>
-  </section>
+  <section name="Paint Services"/>
   <section name="Car Wash">
     <entree>
       <item>Ribeye Steak</item>
