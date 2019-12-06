@@ -21,11 +21,23 @@
       <item>fuel injection</item>
       <price>300.00</price>
     </entree>
+    <entree>
+      <item>Brake pad</item>
+      <price>30.00</price>
+    </entree>
   </section>
   <section name="Brake Services">
     <entree>
       <item>cc</item>
       <price>cc</price>
+    </entree>
+    <entree>
+      <item>Brake Oil</item>
+      <price>25</price>
+    </entree>
+    <entree>
+      <item>Brake pad</item>
+      <price>30.00</price>
     </entree>
   </section>
   <section name="Paint Services"/>
