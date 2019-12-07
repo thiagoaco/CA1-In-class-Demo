@@ -50,24 +50,49 @@ background-color:rgba(255, 255, 255, 0.247);
 opacity: 0,9;
 }
 #outerbox{
-    width: 900px;
+    width: 800px;
     overflow: hidden;
 }
 #sliderbox{
     position: relative;
-    width: 5900px;
+    width: 6400px;
     animation-name: janelas;
     animation-duration: 20s;
+    animation-iteration-count: infinite;
   
 }
 #sliderbox img{
     float: left;
 }
+
 @keyframes janelas{
-    fron{
-        left: 0px;
-    }to {
-        left: -2400px;
+ 0%
+    {        left: 0px;
     }
+
+20%{left: 0px;
+
+}25%{
+    left: -800px;
+}
+45%
+{
+    left: -800px;
+}
+50%
+{
+    left: -1600px;
+}
+70%{
+    left: -1600px;
+}
+75%{
+    left: -2400;
+}
+95%{
+    left: -2400px;
+}100%{
+    left: -800px;
+}
 
 }
