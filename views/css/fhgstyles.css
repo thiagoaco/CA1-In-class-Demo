@@ -3,6 +3,7 @@ html {
   min-height: 100%;
 }
 body {
+ /* this code gives a background image  */
     background-image: url(../img/car.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
@@ -22,6 +23,7 @@ table, th, td {
      border-collapse: collapse;
      border: 1px solid black;
      text-align: center;
+     /* Shadow  for the table background:  */
      box-shadow: 0 5px 15px;
 }
  table {
@@ -29,6 +31,7 @@ table, th, td {
      width:100%;
      box-shadow: 0 5px 15px;
      background-color: white;
+/* Shadow  for the table background:  */
      opacity: 0.7;
 }
  td, th {
@@ -41,30 +44,35 @@ table, th, td {
 }
 .selected {
             background-color: #e60e2080;
+ /* transparency to the selector */
             opacity: 0,9;
             color: #FFF;
 }
 .row{
-background-color:rgba(255, 255, 255, 0.247);
 
+background-color:rgba(255, 255, 255, 0.247);
+ /* transparency for the row background:  */
 opacity: 0,9;
 }
 #outerbox{
     width: 800px;
     overflow: hidden;
 }
+/* sliderbox  it slides all the pictures   */
 #sliderbox{
     position: relative;
     width: 6400px;
     animation-name: janelas;
+    /* animation animation-duration:  it is a timer to slides all the pictures takes 20 seconds   */
     animation-duration: 20s;
     animation-iteration-count: infinite;
   
 }
+/* sliderbox  it slides all the pictures  to the left */
 #sliderbox img{
     float: left;
 }
-
+/* keyframe it is the timer pocentage to slides all the pictures    */
 @keyframes janelas{
  0%
     {        left: 0px;
